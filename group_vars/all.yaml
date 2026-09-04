@@ -45,6 +45,9 @@ gxy_io_rewrites:
     # 16th International Congress of Parasitology, Montreal 2026
   - src: /icopa26
     dest: https://nekrut.github.io/slides/icopa26/
+    # European Conference on Computational Biology 2026
+  - src: /eccb26
+    dest: https://docs.google.com/presentation/d/1papU449ewH_Z35KhZ7PfQK5wzWwRC8fU/edit?usp=sharing
 
   # Promo sites
   - src: /what-is-galaxy
